@@ -86,8 +86,4 @@ If this didn't work please comment below and I will try to help you.
 
 (SOURCE :  https://www.blackhatworld.com/seo/how-to-bypass-vidiq-pro-only-features.981251/ )
 
-FIND OLD VERSIONS OF CHROME EXTENSIONS HERE : 
-1. www.crx.dam.io
-2. www.crx4chrome.com
-
 
